@@ -1,3 +1,6 @@
+# Movie Recommendation System
+A content-based movie recommender system using cosine similarity built on the TMDB dataset.
+
 ## 🎬 Project Overview
 This system suggests similar movies based on content features like:
 - Genre
